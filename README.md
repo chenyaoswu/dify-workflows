@@ -7,7 +7,7 @@ Share and discuss Dify workflows, providing developers and users with a centrali
 - [中文](#中文介绍)
 - [English](#english)
 
-<details>
+<details open>
 <summary>中文介绍</summary>
 
 这是一个用于分享和讨论 Dify 工作流的仓库。
@@ -29,7 +29,7 @@ Share and discuss Dify workflows, providing developers and users with a centrali
 
 </details>
 
-<details>
+<details open>
 <summary>English</summary>
 
 This is a repository for sharing and discussing Dify workflows.
