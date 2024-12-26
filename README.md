@@ -27,13 +27,14 @@ Share and discuss Dify workflows, providing developers and users with a centrali
 <div style="display: flex; gap: 20px; align-items: center;">
     <div>
         <p>WeChat Group</p>
-        <img src="group.jpg height="200" alt="WeChat Group QR Code">
+        <img src="wechat.jpg" height="200" alt="WeChat Group QR Code">
     </div>
     <div>
         <p>Personal WeChat</p>
-        <img src="wechat" height="200" alt="Personal WeChat QR Code">
+        <img src="group.jpg" height="200" alt="Personal WeChat QR Code">
     </div>
 </div>
+<img src="group.jpg" width="200" alt="微信群二维码">
 
 </details>
 
