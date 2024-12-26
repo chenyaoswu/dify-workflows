@@ -24,8 +24,8 @@ Share and discuss Dify workflows, providing developers and users with a centrali
 - 参与讨论，共同开发更好的解决方案
 
 ### 联系方式：
-<img src="assets/group.jpg" width="200" alt="微信群二维码">
-<img src="assets/wechat.jpg" width="200" alt="个人微信二维码">
+<img src="group.jpg" width="200" alt="微信群二维码">
+<img src="wechat.jpg" width="200" alt="个人微信二维码">
 
 </details>
 
