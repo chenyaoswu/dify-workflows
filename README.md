@@ -24,8 +24,16 @@ Share and discuss Dify workflows, providing developers and users with a centrali
 - 参与讨论，共同开发更好的解决方案
 
 ### 联系方式：
-<img src="group.jpg" width="200" alt="微信群二维码">
-<img src="wechat.jpg" width="200" alt="个人微信二维码">
+<div style="display: flex; gap: 20px; align-items: center;">
+    <div>
+        <p>WeChat Group</p>
+        <img src="group.jpg height="200" alt="WeChat Group QR Code">
+    </div>
+    <div>
+        <p>Personal WeChat</p>
+        <img src="wechat" height="200" alt="Personal WeChat QR Code">
+    </div>
+</div>
 
 </details>
 
@@ -46,7 +54,7 @@ We welcome workflow examples, feedback, and suggestions for improvement to help 
 - Join discussions to develop better solutions together
 
 ### Contact:
-<img src="assets/wechat_group_qr.jpg" width="200" alt="WeChat Group QR Code">
-<img src="assets/personal_wechat_qr.jpg" width="200" alt="Personal WeChat QR Code">
+<img src="group.jpg" width="200" alt="微信群二维码">
+<img src="wechat.jpg" width="200" alt="个人微信二维码">
 
 </details>
