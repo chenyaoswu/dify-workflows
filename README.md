@@ -34,7 +34,6 @@ Share and discuss Dify workflows, providing developers and users with a centrali
         <img src="group.jpg" height="200" alt="Personal WeChat QR Code">
     </div>
 </div>
-<img src="group.jpg" width="200" alt="微信群二维码">
 
 </details>
 
@@ -53,9 +52,5 @@ We welcome workflow examples, feedback, and suggestions for improvement to help 
 - Submit Pull Requests to add or update workflow examples
 - Raise issues or provide feedback
 - Join discussions to develop better solutions together
-
-### Contact:
-<img src="group.jpg" width="200" alt="微信群二维码">
-<img src="wechat.jpg" width="200" alt="个人微信二维码">
 
 </details>
